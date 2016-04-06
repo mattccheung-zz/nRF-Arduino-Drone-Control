@@ -1,0 +1,1 @@
+void *SkyArtec_Cmds(enum ProtoCmds cmd);

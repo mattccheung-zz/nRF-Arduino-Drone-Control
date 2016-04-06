@@ -1,0 +1,1 @@
+void *CG023_Cmds(enum ProtoCmds cmd);

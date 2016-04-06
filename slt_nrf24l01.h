@@ -1,0 +1,1 @@
+void *SLT_Cmds(enum ProtoCmds cmd);

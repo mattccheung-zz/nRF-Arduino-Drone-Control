@@ -1,0 +1,1 @@
+void *J6Pro_Cmds(enum ProtoCmds cmd);

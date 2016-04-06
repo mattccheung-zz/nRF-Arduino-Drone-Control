@@ -1,0 +1,1 @@
+void *FlySky2way_Cmds(enum ProtoCmds cmd);

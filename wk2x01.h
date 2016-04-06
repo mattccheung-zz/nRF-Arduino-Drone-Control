@@ -1,0 +1,1 @@
+void *WK_Cmds(enum ProtoCmds cmd);

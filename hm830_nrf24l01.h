@@ -1,0 +1,1 @@
+void *HM830_Cmds(enum ProtoCmds cmd);

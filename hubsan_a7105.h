@@ -1,0 +1,1 @@
+void *Hubsan_Cmds(enum ProtoCmds cmd);

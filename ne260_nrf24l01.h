@@ -1,0 +1,1 @@
+void *NE260_Cmds(enum ProtoCmds cmd);
